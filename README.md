@@ -2,8 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ʜɪ%20ᴛʜᴇʀᴇ%20👋&desc=%20🅦🅔🅛🅒🅞🅜🅔%20🅣🅞%20🅜🅨%20🅖🅘🅣🅗🅤🅑&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
 <h3 align="center">  ✨𝙔𝙚𝙞𝙣 𝙅𝙚𝙤𝙣𝙜✨ </h3> 
-
-
+<hr>
+<h5 align="center">  📧Email : tmvhswlqkq07@gmail.com </h5> 
+<h5 align="center">  🖱Velog : https://velog.io/@elitein_723 </h5> 
+<hr>
 
 <p align="center"> 🤗 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ.</p> 
 <p align="center"> ᴍʏ ɴᴀᴍᴇ ɪs ʏᴇɪɴ ᴊᴇᴏɴɢ ᴀɴᴅ ɪ'ᴍ ғʀᴏᴍ ʀᴇᴘᴜʙʟɪᴄ ᴏғ ᴋᴏʀᴇᴀ.</p> 
@@ -34,7 +36,9 @@
 <hr>
 
 <div align="center">
-  <h3>𝙂𝙞𝙩𝙝𝙪𝙗 𝙋𝙧𝙤𝙛𝙞𝙡𝙚</h3>
+  <h3>💻 𝙂𝙞𝙩𝙝𝙪𝙗 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 💻</h3>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gymin97&layout=compact)](https://github.com/yeinJ)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeinJ&theme=omni&show_icons=true)
 
