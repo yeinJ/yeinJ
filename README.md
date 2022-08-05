@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyeinJ&count_bg=%238B9AFF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ʜɪ%20ᴛʜᴇʀᴇ%20🌱&desc=%20🅦🅔🅛🅒🅞🅜🅔%20🅣🅞%20🅜🅨%20🅖🅘🅣🅗🅤🅑&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ʜɪ%20ᴛʜᴇʀᴇ%20👋&desc=%20🅦🅔🅛🅒🅞🅜🅔%20🅣🅞%20🅜🅨%20🅖🅘🅣🅗🅤🅑&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
-<h3 align="center">  ✨🅨🅔🅘🅝 🅙🅔🅞🅝🅖✨ </h3> 
+<h3 align="center">  ✨𝙔𝙚𝙞𝙣 𝙅𝙚𝙤𝙣𝙜✨ </h3> 
 
 
 
@@ -15,7 +15,7 @@
 <p></p>
 
 <hr>
-<h3 align="center"> ⚒ 🅣🅔🅒🅗 🅢🅣🅐🅒🅚 ⚒ </h3>
+<h3 align="center"> ⚒ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠 ⚒ </h3>
 
 <h3 align="center"> ᴛᴇᴄʜs ᴛʜᴀᴛ ɪ'ᴠᴇ ᴜsᴇᴅ ᴀᴛ ʟᴇᴀsᴛ ᴏɴᴄᴇ </h3>
 
@@ -34,7 +34,7 @@
 <hr>
 
 <div align="center">
-  <h3>🅖🅘🅣🅗🅤🅑 🅟🅡🅞🅕🅘🅛🅔</h3>
+  <h3>𝙂𝙞𝙩𝙝𝙪𝙗 𝙋𝙧𝙤𝙛𝙞𝙡𝙚</h3>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeinJ&theme=omni&show_icons=true)
 
